@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LorenzoPolli
-- 👀 I’m interested in Web Scraping, Text Mining and Sentiment Analysis, and Complex Networks (Python) 
-- 🌱 My last project is about Reinforcement Learning and was realised in collaboration with @dkalsan and @laragazzadelsole 
-- 🤝 I’m looking to collaborate on Web Scraping and Text Mining projects.
+- 👀 I’m interested in Web Scraping, Text Mining, Sentiment Analysis, and Complex Networks (Python) 
+- 🌱 My last project is about the application of NLP techniques to compare three popular Italian TV News.
+- 🤝 I’m looking to collaborate on some interesting projects.
 - 📫 How to reach me: lorenzopolli.1996@gmail.com
